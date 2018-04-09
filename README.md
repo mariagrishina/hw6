@@ -1,1 +1,2 @@
-# hw6
+# Задание 6 Google Ngram Viewer
+1. 
