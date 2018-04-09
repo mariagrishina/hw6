@@ -9,7 +9,7 @@
 # Часть 2. Sketch Engine
 -  1  
 ![](https://sun1-4.userapi.com/c840539/v840539122/6fcc7/v9WVZMU-qkg.jpg) 
-(первый столбик)
+- (первый столбик)
 -  2  
 ![](https://pp.userapi.com/c846018/v846018122/1d4d3/vBm7wvt9wj0.jpg)
  ![](https://pp.userapi.com/c846018/v846018122/1d4da/D9lPyjgReQk.jpg)
