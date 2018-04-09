@@ -1,2 +1,2 @@
-# Задание 6 Google Ngram Viewer
+# Задание 6 - Google Ngram Viewer
 1. 
